@@ -25,7 +25,7 @@ Run the command
 Type ```~run```. This is optional and causes sbt to re-run on every file save, allowing for a fast edit/run/debug cycle. sbt will also generate a target directory which you can ignore.
 * When you’re finished experimenting with this project, press [Enter] to interrupt the run command. Then type exit or press [Ctrl+D] to exit sbt and return to your command line prompt.
 
-References:
+## References:
 
 [https://docs.scala-lang.org/getting-started/index.html](https://docs.scala-lang.org/getting-started/index.html)
 
