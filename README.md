@@ -28,4 +28,5 @@ Type ```~run```. This is optional and causes sbt to re-run on every file save, a
 References:
 
 [https://docs.scala-lang.org/getting-started/index.html](https://docs.scala-lang.org/getting-started/index.html)
+
 [https://yuchen52.medium.com/getting-started-with-docker-scala-sbt-d91f8ac22f5f](https://yuchen52.medium.com/getting-started-with-docker-scala-sbt-d91f8ac22f5f)
